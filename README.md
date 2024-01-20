@@ -1,6 +1,6 @@
 <h1>Hey! there 👋</h1>
 
-<p> Welcome to my page! <br /> I`m Sungjae Kim simply Jake, <b>Front-end Engineer</b> from <b>South Korea</b> 🇰🇷.</p>
+<p> Welcome to my page! <br /> I`m Sungjae Kim simply call me Jake :), <b>Front-end Engineer</b> from <b>South Korea</b> 🇰🇷.</p>
 <h3>Things I code with</h3>
 <p>
   
